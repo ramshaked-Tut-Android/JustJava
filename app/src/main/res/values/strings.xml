@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Just Java</string>
+    <string name="whipped_cream" translatable="false">Whipped cream</string>
+    <string name="your_name">name</string>
+</resources>
